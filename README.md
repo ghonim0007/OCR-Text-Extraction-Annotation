@@ -19,3 +19,20 @@ The extracted texts are merged, and rectangles are drawn around the text on the 
 
    ```bash
    pip install -r requirements.txt
+
+## Language and Libraries Used
+
+
+![Python](https://img.shields.io/badge/Language-Python-blue)
+
+### 🚀 Features
+- **Language:** Python
+- **Dependencies:** `pytesseract`, `PIL`, `PDF2Image`
+- **License:** MIT
+
+---
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ghonim0007/OCR-Text-Extraction-Annotation.git
