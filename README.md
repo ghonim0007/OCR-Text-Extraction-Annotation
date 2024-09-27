@@ -19,3 +19,14 @@ The extracted texts are merged, and rectangles are drawn around the text on the 
 
    ```bash
    pip install -r requirements.txt
+
+## Language and Libraries Used
+
+This project is primarily developed in **Python**.
+
+### Language Breakdown
+- Python: 90%
+- Libraries Used:
+  - `pytesseract`: 70%
+  - `OpenCV`: 20%
+  - `PIL` (Pillow): 10%
