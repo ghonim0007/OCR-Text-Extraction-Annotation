@@ -22,11 +22,17 @@ The extracted texts are merged, and rectangles are drawn around the text on the 
 
 ## Language and Libraries Used
 
-This project is primarily developed in **Python**.
 
-### Language Breakdown
-- Python: 90%
-- Libraries Used:
-  - `pytesseract`: 70%
-  - `OpenCV`: 20%
-  - `PIL` (Pillow): 10%
+![Python](https://img.shields.io/badge/Language-Python-blue)
+
+### 🚀 Features
+- **Language:** Python
+- **Dependencies:** `pytesseract`, `PIL`, `PDF2Image`
+- **License:** MIT
+
+---
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ghonim0007/OCR-Text-Extraction-Annotation.git
